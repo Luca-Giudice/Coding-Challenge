@@ -1,0 +1,46 @@
+body{
+	background-image:url('background.jpg');
+	background-position: center;
+	background-size: cover;
+}
+
+.container {
+  height: 800px;
+  width: 900px;
+  margin: auto;
+	margin-top:100px;
+	background-color: rgba(0, 0, 0, 0.3);
+	border-radius: 20px;
+}
+
+.header{
+	border: 100px;
+	margin: auto;
+}
+
+.logo{
+	width: 200px;
+}
+
+.title{
+	font-size: 30px;
+	font-family: sans-serif;
+	color: rgb(0,255,0);
+
+}
+
+nav {
+	height: 30px;
+	background-color: rgb(0,255,0);
+	border-top: 90px;
+}
+
+.button{
+	padding: 250px;
+}
+
+main{
+	border: 20px;
+	color: white;
+
+}
